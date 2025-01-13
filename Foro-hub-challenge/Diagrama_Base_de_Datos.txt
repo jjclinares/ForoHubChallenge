@@ -1,0 +1,13 @@
+Diagrama de la Base de Datos
+
++-----------+        +---------+        +---------+
+|   Topico  |        |  Autor  |        |  Curso  |
++-----------+        +---------+        +---------+
+| id        |<-----> | id      |        | id      |
+| titulo    |        | nombre  |<-----> | nombre  |
+| mensaje   |        | email   |        | categoria|
+| fecha     |        +---------+        +---------+
+| estado    |
+| autor_id  |
+| curso_id  |
++-----------+
