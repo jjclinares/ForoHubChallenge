@@ -210,5 +210,11 @@ GET /usuarios (Protegido, requiere token)
    - [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
 ---
+🔧 Estatus del Proyecto
 
+Finalizado :black_nib:
+
+## 👤 Autor
+
+Proyecto desarrollado por Jamer Linares.
 
